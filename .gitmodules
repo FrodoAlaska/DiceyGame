@@ -1,0 +1,3 @@
+[submodule "libs/nikola"]
+	path = libs/nikola
+	url = git@github.com:FrodoAlaska/Nikola.git
